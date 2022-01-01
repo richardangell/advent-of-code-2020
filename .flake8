@@ -1,0 +1,2 @@
+[flake8]
+ignore = E501 # 79 character line length limit
